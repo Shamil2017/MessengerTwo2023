@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682624378943",
+    "project_id": "messengertwo2023",
+    "storage_bucket": "messengertwo2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682624378943:android:5173014ce00933638a708a",
+        "android_client_info": {
+          "package_name": "com.example.messengertwo2023"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhdfXYpagH1sK3muHI8kWi1q4UAdh0gpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
